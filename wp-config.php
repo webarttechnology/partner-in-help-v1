@@ -1,8 +1,8 @@
 <?php
-define( 'DB_NAME', 'partner-for-help' );
-define( 'DB_USER', 'root' );
-define( 'DB_PASSWORD', '' );
-define( 'DB_HOST', 'localhost' );
+define( 'DB_NAME', 'webart_partnerinhelp' );
+define( 'DB_USER', 'webart_partnerinhelp' );
+define( 'DB_PASSWORD', '/%dMYi[J8nM)Mxxj' );
+define( 'DB_HOST', '148.135.138.226' );
 define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 
